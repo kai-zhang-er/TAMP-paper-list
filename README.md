@@ -11,4 +11,9 @@ a paper list about task and motion planning(TAMP)
 ## navigation among mobile obstacles
 - 2019_Dynamic window based approaches for avoiding obstacles in moving
 - 2021_DWARL_Dynamically_Feasible_Deep_Reinforcement_Learning_Policy_for_Robot_Navigation_among_Mobile_Obstacles [code](https://github.com/NithishkumarS/DWA-RL)  
-- 2021_NavRep Unsupervised Representations for Reinforcement Learning of robot navigation in dynamic human environment [code](https://github.com/ethz-asl/navrep)  
+- 2021_NavRep Unsupervised Representations for Reinforcement Learning of robot navigation in dynamic human environment [code](https://github.com/ethz-asl/navrep) 
+
+## Task planning and motion planning
+### uncertain environment
+- 2007 FF-Replan A Baseline for Probabilistic Planning
+- 2021 Learning Symbolic Operators for Task and Motion Planning [code](https://github.com/caelan/LTAMP)
