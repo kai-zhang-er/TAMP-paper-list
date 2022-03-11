@@ -16,4 +16,13 @@ a paper list about task and motion planning(TAMP)
 ## Task planning and motion planning
 ### uncertain environment
 - 2007 FF-Replan A Baseline for Probabilistic Planning
+- 2020 Online Replanning in belief space for partially observable task and motion problems
 - 2021 Learning Symbolic Operators for Task and Motion Planning [code](https://github.com/caelan/LTAMP)
+
+
+### others
+- 2018 active model learning and diverse action sampling for task and motion planning
+- 2019 Learning value functions with relational state representations for guiding task and motion planning
+- 2020 deep visual reasoning learning to predict action sequences for task and motion planning from an initial scene image
+- 2021 Learning compositional models of robot skills for task and motion planning
+- 2021 Discovering State and Action Abstractions for generalized task and motion planning
