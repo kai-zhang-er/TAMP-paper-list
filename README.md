@@ -1,6 +1,11 @@
 # TAMP-paper-list
 a paper list about task and motion planning(TAMP)
 
+## Survey
+- 2019 Automated Planning for Robotics
+- 2016 Automated planning and acting
+- 2021 integrate motion and task planning
+
 ## navigation among movable obstacles
 - 2018_Active_Path_Clearing_Navigation_through_Environment_Reconfiguration_in_Presence_of_Movable_Obstacles
 - 2019_HRL4IN Hierarchical Reinforcement Learning for interactive navigation with mobile manipulators [code](https://github.com/ChengshuLi/HRL4IN)
