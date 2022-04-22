@@ -27,7 +27,7 @@ a paper list about task and motion planning(TAMP)
 ## Task planning and motion planning
 ### uncertain environment
 - 2007 FF-Replan A Baseline for Probabilistic Planning
-- 2020 Online Replanning in belief space for partially observable task and motion problems
+- 2020 Online Replanning in belief space for partially observable task and motion problems [code](https://github.com/caelan/SS-Replan)
 - 2021 Learning Symbolic Operators for Task and Motion Planning [code](https://github.com/caelan/LTAMP)
 
 
