@@ -18,6 +18,7 @@ a paper list about task and motion planning(TAMP)
 
 - 2021_relmogen integrating motion generation in reinforcement learning for mobile manipulation
 - 2021_Pushing It Out of the Way Interactive Visual Navigation [code](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation)
+- 2021 Representation, learning, and planning algorithms for geometric task and motion planning
 
 ## Navigation among mobile obstacles
 - 2019_Dynamic window based approaches for avoiding obstacles in moving
@@ -38,3 +39,6 @@ a paper list about task and motion planning(TAMP)
 - 2021 Learning compositional models of robot skills for task and motion planning [code](https://github.com/zi-w/Kitchen2D)
 - 2021 Discovering State and Action Abstractions for generalized task and motion planning
 
+## New ideas
+- 2022 A Generalist Agent [website](https://www.deepmind.com/publications/a-generalist-agent)
+- 2022 Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [website](https://say-can.github.io/)
