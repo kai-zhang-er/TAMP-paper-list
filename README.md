@@ -15,7 +15,6 @@ a paper list about task and motion planning(TAMP)
 - 2018_Active_Path_Clearing_Navigation_through_Environment_Reconfiguration_in_Presence_of_Movable_Obstacles
 - 2019_HRL4IN Hierarchical Reinforcement Learning for interactive navigation with mobile manipulators [code](https://github.com/ChengshuLi/HRL4IN)
 - 2020_Affordance-Based_Mobile_Robot_Navigation_Among_Movable_Obstacles
-
 - 2021_relmogen integrating motion generation in reinforcement learning for mobile manipulation
 - 2021_Pushing It Out of the Way Interactive Visual Navigation [code](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation)
 - 2021 Representation, learning, and planning algorithms for geometric task and motion planning
@@ -38,6 +37,18 @@ a paper list about task and motion planning(TAMP)
 - 2020 Online Replanning in belief space for partially observable task and motion problems [code](https://github.com/caelan/SS-Replan)
 - 2021 Learning Symbolic Operators for Task and Motion Planning [code](https://github.com/caelan/LTAMP)
 
+## Solve sparse reward in navigation
+- 2017 Hindsight experience replay
+- 2019 Keeping Your Distance Solving Sparse Reward Tasks using selfbalancing shaped rewards
+- 2020 Maximum Entropy Gain Exploration for long horizon multi-goal reinforcement learning
+- 2021 Goal-Conditioned Reinforcement Learning with Imagined Subgoals
+- [review] 2022 Goal-Conditioned Reinforcement Learning Problems and Solutions
+
+## Graph to solve the navigation
+- 2019 Search on the Replay Buffer bridging planning and reinforcement learning
+- 2020 Learning to plan with uncertain topological maps
+- 2020 sparse graphical memory for robust planning
+- 2021 Reducing Collision Checking for Sampling-Based motion planning using GNN
 
 ### others
 - 2018 active model learning and diverse action sampling for task and motion planning [code](https://github.com/zi-w/Kitchen2D)
