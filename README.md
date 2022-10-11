@@ -14,10 +14,14 @@ a paper list about task and motion planning(TAMP)
 ## Navigation among movable obstacles
 - 2018_Active_Path_Clearing_Navigation_through_Environment_Reconfiguration_in_Presence_of_Movable_Obstacles
 - 2019_HRL4IN Hierarchical Reinforcement Learning for interactive navigation with mobile manipulators [code](https://github.com/ChengshuLi/HRL4IN)
+- 2019 Towards S-NAMO Socially-aware Navigation Among Movable Obstacles
+- 2020 Modeling a Social Placement Cost to Extend Navigation Among Movable Obstacles (NAMO) Algor.pdf
 - 2020_Affordance-Based_Mobile_Robot_Navigation_Among_Movable_Obstacles
 - 2021_relmogen integrating motion generation in reinforcement learning for mobile manipulation
 - 2021_Pushing It Out of the Way Interactive Visual Navigation [code](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation)
 - 2021 Representation, learning, and planning algorithms for geometric task and motion planning
+- 2022 A hierarchical deliberative reactive system architecture for task and motion planning in partially known environment
+- 2022 Navigation Among Movable Obstacles with Object Localization using Photorealistic Simulatio
 ### Exploration + Planning
 - 2020 sparse graphical memory for robust planning [website](https://mishalaskin.github.io/sgm/)
 - 2021 Reducing Collision Checking for Sampling-Based motion planning using GNN [code](https://github.com/rainorangelemon/gnn-motion-planning)
