@@ -10,6 +10,7 @@ a paper list about task and motion planning(TAMP)
 - PHD 2019 Online Distributed Motion Planning
 - PHD 2020_Learning to guide task and motion planning
 - PHD 2021_sampling based robot task and motion planning in the real world
+- PHD 2021 Reactive Planning With Legged Robots In Unknown Environments
 
 ## Navigation among movable obstacles
 - 2018_Active_Path_Clearing_Navigation_through_Environment_Reconfiguration_in_Presence_of_Movable_Obstacles
@@ -22,6 +23,7 @@ a paper list about task and motion planning(TAMP)
 - 2021 Representation, learning, and planning algorithms for geometric task and motion planning
 - 2022 A hierarchical deliberative reactive system architecture for task and motion planning in partially known environment
 - 2022 Navigation Among Movable Obstacles with Object Localization using Photorealistic Simulatio
+
 ### Exploration + Planning
 - 2020 sparse graphical memory for robust planning [website](https://mishalaskin.github.io/sgm/)
 - 2021 Reducing Collision Checking for Sampling-Based motion planning using GNN [code](https://github.com/rainorangelemon/gnn-motion-planning)
