@@ -5,6 +5,8 @@ a paper list about task and motion planning(TAMP)
 - 2019 Automated Planning for Robotics
 - 2016 Automated planning and acting
 - 2021 integrate motion and task planning
+- 2022 Task and motion planning methods: applications and limitations
+- 2023 A Review of Classical and Learning Based Approaches in Task and Motion Planning
 
 ## PHD thesis
 - PHD 2019 Online Distributed Motion Planning
@@ -22,7 +24,11 @@ a paper list about task and motion planning(TAMP)
 - 2021_Pushing It Out of the Way Interactive Visual Navigation [code](https://github.com/KuoHaoZeng/Interactive_Visual_Navigation)
 - 2021 Representation, learning, and planning algorithms for geometric task and motion planning
 - 2022 A hierarchical deliberative reactive system architecture for task and motion planning in partially known environment
-- 2022 Navigation Among Movable Obstacles with Object Localization using Photorealistic Simulatio
+- 2022 Minimum Displacement Motion Planning for movable obstacles
+- 2022IROS Navigation Among Movable Obstacles with Object Localization using Photorealistic Simulatio
+- 2023IROS Navigation among movable obstacles using machine learning based total time cost optimization
+- 2023RAL_Curriculum_Reinforcement_Learning_from_Avoiding_Collisions_to_Navigating_among_Movable_Obstacles_in_Diverse_Environments
+- 2023ICRA visibility aware navigation among movable obstacles
 
 ### Exploration + Planning
 - 2020 sparse graphical memory for robust planning [website](https://mishalaskin.github.io/sgm/)
@@ -35,7 +41,13 @@ a paper list about task and motion planning(TAMP)
 ## Navigation among mobile obstacles
 - 2019_Dynamic window based approaches for avoiding obstacles in moving
 - 2021_DWARL_Dynamically_Feasible_Deep_Reinforcement_Learning_Policy_for_Robot_Navigation_among_Mobile_Obstacles [code](https://github.com/NithishkumarS/DWA-RL)  
-- 2021_NavRep Unsupervised Representations for Reinforcement Learning of robot navigation in dynamic human environment [code](https://github.com/ethz-asl/navrep)  
+- 2021_NavRep Unsupervised Representations for Reinforcement Learning of robot navigation in dynamic human environment [code](https://github.com/ethz-asl/navrep)
+- 2022IROS FAR_Planner_Fast_Attemptable_Route_Planner_using_Dynamic_Visibility_Update
+- 2022IROS_NavDreams_Towards_Camera-Only_RL_Navigation_Among_Humans
+- 2022RAL_Socially_CompliAnt_Navigation_Dataset_SCAND_A_Large-Scale_Dataset_of_Demonstrations_for_Social_Navigation
+- 2022TRO Avoiding_Dense_and_Dynamic_Obstacles_in_Enclosed_Spaces_Application_to_Moving_in_Crowds
+- 2023ICRA_Intention Aware Robot Crowd Navigation with attention based interaction graph
+- 2023TRO DRL-VO_Learning_to_Navigate_Through_Crowded_Dynamic_Scenes_Using_Velocity_Obstacles
 
 ## Task planning and motion planning
 ### uncertain environment
