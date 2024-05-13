@@ -1,18 +1,38 @@
 # TAMP-paper-list
 a paper list about task and motion planning(TAMP)
 
+## Book
+- Behavior Trees in robotics and AI
+- decision making in uncertainty
+- robotics vision and control
+- Probabilistics Robotics
+
 ## Survey
-- 2019 Automated Planning for Robotics
 - 2016 Automated planning and acting
+- 2019 Decision-making with belief functions A review
+- 2019 Automated Planning for Robotics
 - 2021 integrate motion and task planning
 - 2022 Task and motion planning methods: applications and limitations
 - 2023 A Review of Classical and Learning Based Approaches in Task and Motion Planning
+- 2023 recent trends in task and motion planning for robotics A review
 
 ## PHD thesis
 - PHD 2019 Online Distributed Motion Planning
 - PHD 2020_Learning to guide task and motion planning
 - PHD 2021_sampling based robot task and motion planning in the real world
 - PHD 2021 Reactive Planning With Legged Robots In Unknown Environments
+
+## Uncertainty
+- 2007 FF-Replan A Baseline for Probabilistic Planning
+- 2009 Aleatory_or_epistemic_Does_it_matter
+- 2020 Online Replanning in belief space for partially observable task and motion problems [code](https://github.com/caelan/SS-Replan)
+- 2020IROS Task planning with belief behavior trees
+- 2021 Learning Symbolic Operators for Task and Motion Planning [code](https://github.com/caelan/LTAMP)
+- 2021IROS Probabilistic Inference in Planning for Partially Observable Long horizon problems
+- 2023PhD Long-Horizon Planning Under Uncertainty
+- 2024 partially observable task and motion planning with uncertainty and risk awareness
+- 2024 large language model based task and motion planning with motion failure reasoning
+
 
 ## Navigation among movable obstacles
 - 2018_Active_Path_Clearing_Navigation_through_Environment_Reconfiguration_in_Presence_of_Movable_Obstacles
@@ -50,10 +70,6 @@ a paper list about task and motion planning(TAMP)
 - 2023TRO DRL-VO_Learning_to_Navigate_Through_Crowded_Dynamic_Scenes_Using_Velocity_Obstacles
 
 ## Task planning and motion planning
-### uncertain environment
-- 2007 FF-Replan A Baseline for Probabilistic Planning
-- 2020 Online Replanning in belief space for partially observable task and motion problems [code](https://github.com/caelan/SS-Replan)
-- 2021 Learning Symbolic Operators for Task and Motion Planning [code](https://github.com/caelan/LTAMP)
 
 ## Solve sparse reward in navigation
 - 2017 Hindsight experience replay
