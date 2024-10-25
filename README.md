@@ -22,6 +22,30 @@ a paper list about task and motion planning(TAMP)
 - PHD 2021_sampling based robot task and motion planning in the real world
 - PHD 2021 Reactive Planning With Legged Robots In Unknown Environments
 
+## Embodied AI
+- 2021CoRL CLIPort What and Where Pathways for Robotic Manipulation.pdf
+- 2021ICML CLIP paper.pdf
+- 2022 Language models as wero shot planners.pdf
+- 2023 Conceptgraphs Open-vocabulary 3d scene graphs for perception and planning.pdf
+- 2023 Reflexion Language Agents with verbal reinforcement learning.pdf
+- 2023 embodiedGPT vision language pre-training via embodied chain of thought.pdf
+- 2023 matcha chat with the environment interactive multimodal perception using large language models.pdf
+- 2023 roboflamingo.pdf
+- 2023 robotic transformer 2.pdf
+- 2023 video language planning.pdf
+- 2023CoRL Sayplan Grounding large language models using 3d scene graphs.pdf
+- 2024 A survey on Vision language action models for embodied AI.pdf
+- 2024 AutoRT Embodied Foundation Models for Large Scale Orchestration of Robotic Agents.pdf
+- 2024 BLIP-2 Bootstrapping Language-Image Pre-training with frozen image encoders and large language models.pdf
+- 2024 LLaVA improved baselines with visual instruction tuning.pdf
+- 2024 OrionNav Online Planning for Robot Autonomy with context aware LLM and open vocabulary semantic scene graphs.pdf
+- 2024 RT-H action hierarchies using language.pdf
+- 2024COLM LLM Reasoners.pdf
+- 2024ICLR RT-Trajectory.pdf
+- 2024ICML 3D-VLA A 3D Vision-Language-Action Generative World Mode.pdf
+- 2024Robogpt an intelligent agent of making embodied long-term decisions.pdf
+
+
 ## Uncertainty
 - 2007 FF-Replan A Baseline for Probabilistic Planning
 - 2009 Aleatory_or_epistemic_Does_it_matter
@@ -69,7 +93,7 @@ a paper list about task and motion planning(TAMP)
 - 2023ICRA_Intention Aware Robot Crowd Navigation with attention based interaction graph
 - 2023TRO DRL-VO_Learning_to_Navigate_Through_Crowded_Dynamic_Scenes_Using_Velocity_Obstacles
 
-## Task planning and motion planning
+
 
 ## Solve sparse reward in navigation
 - 2017 Hindsight experience replay
