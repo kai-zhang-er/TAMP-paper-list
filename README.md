@@ -23,27 +23,40 @@ a paper list about task and motion planning(TAMP)
 - PHD 2021 Reactive Planning With Legged Robots In Unknown Environments
 
 ## Embodied AI
-- 2021CoRL CLIPort What and Where Pathways for Robotic Manipulation.pdf
-- 2021ICML CLIP paper.pdf
-- 2022 Language models as wero shot planners.pdf
-- 2023 Conceptgraphs Open-vocabulary 3d scene graphs for perception and planning.pdf
-- 2023 Reflexion Language Agents with verbal reinforcement learning.pdf
-- 2023 embodiedGPT vision language pre-training via embodied chain of thought.pdf
-- 2023 matcha chat with the environment interactive multimodal perception using large language models.pdf
-- 2023 roboflamingo.pdf
-- 2023 robotic transformer 2.pdf
-- 2023 video language planning.pdf
-- 2023CoRL Sayplan Grounding large language models using 3d scene graphs.pdf
-- 2024 A survey on Vision language action models for embodied AI.pdf
-- 2024 AutoRT Embodied Foundation Models for Large Scale Orchestration of Robotic Agents.pdf
-- 2024 BLIP-2 Bootstrapping Language-Image Pre-training with frozen image encoders and large language models.pdf
-- 2024 LLaVA improved baselines with visual instruction tuning.pdf
-- 2024 OrionNav Online Planning for Robot Autonomy with context aware LLM and open vocabulary semantic scene graphs.pdf
-- 2024 RT-H action hierarchies using language.pdf
-- 2024COLM LLM Reasoners.pdf
-- 2024ICLR RT-Trajectory.pdf
-- 2024ICML 3D-VLA A 3D Vision-Language-Action Generative World Mode.pdf
-- 2024Robogpt an intelligent agent of making embodied long-term decisions.pdf
+- 2021CoRL CLIPort What and Where Pathways for Robotic Manipulation
+- 2021ICML CLIP paper
+- 2022 Language models as wero shot planners
+- 2023 Conceptgraphs Open-vocabulary 3d scene graphs for perception and planning
+- 2023 Reflexion Language Agents with verbal reinforcement learning
+- 2023 embodiedGPT vision language pre-training via embodied chain of thought
+- 2023 matcha chat with the environment interactive multimodal perception using large language models
+- 2023 roboflamingo
+- 2023 robotic transformer 2
+- 2023 top ai papers
+- 2023 video language planning
+- 2023CoRL Sayplan Grounding large language models using 3d scene graphs
+- 2024 A survey on Vision language action models for embodied AI
+- 2024 AutoRT Embodied Foundation Models for Large Scale Orchestration of Robotic Agents
+- 2024 BLIP-2 Bootstrapping Language-Image Pre-training with frozen image encoders and large language models
+- 2024 DIVSCENE BENCHMARKING LVLMS FOR OBJECT navigation with diverse scenes and objects
+- 2024 Enhancing_Scene_Understanding_for_Vision-and-Language_Navigation_by_Knowledge_Awareness
+- 2024 IPPON common sense guided informatic path planning for object goal navigation
+- 2024 LLaVA improved baselines with visual instruction tuning
+- 2024 NavGPT-v2
+- 2024 Octopus Embodied vision language programmer from environmental feedback
+- 2024 OpenVLA
+- 2024 OrionNav Online Planning for Robot Autonomy with context aware LLM and open vocabulary semantic scene graphs
+- 2024 RT-H action hierarchies using language
+- 2024 Robogpt an intelligent agent of making embodied long-term decisions
+- 2024 Towards Coarse-grained Visual Language Navigation Task planning enhanced by event knowledge graph
+- 2024 replan robotic replanning with perception and language models
+- 2024COLM LLM Reasoners
+- 2024ICLR Lota bench benchmarking language oriented task planners for embodied agents
+- 2024ICLR RT-Trajectory
+- 2024ICML 3D-VLA A 3D Vision-Language-Action Generative World Mode
+- 2024ICRA Physically Grounded Vision-Language Models for robotic manipulation
+- Aligning cyber space with physical world a comprehensive survey on embodied AI
+
 
 
 ## Uncertainty
