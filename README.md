@@ -36,26 +36,36 @@ a paper list about task and motion planning(TAMP)
 - 2023 video language planning
 - 2023CoRL Sayplan Grounding large language models using 3d scene graphs
 - 2024 A survey on Vision language action models for embodied AI
+- 2024 Accelerating Gaussian Variational Inference for motion planning under uncertainty
 - 2024 AutoRT Embodied Foundation Models for Large Scale Orchestration of Robotic Agents
 - 2024 BLIP-2 Bootstrapping Language-Image Pre-training with frozen image encoders and large language models
+- 2024 DINO-WM WORLD MODELS ON PRE-TRAINED visual features enable zero shot planning
 - 2024 DIVSCENE BENCHMARKING LVLMS FOR OBJECT navigation with diverse scenes and objects
 - 2024 Enhancing_Scene_Understanding_for_Vision-and-Language_Navigation_by_Knowledge_Awareness
-- 2024 IPPON common sense guided informatic path planning for object goal navigation
+- 2024 Flame learning to navigate with multimodal LLM in urban environments
+- 2024 KNOW WHERE YOU’RE UNCERTAIN WHEN PLANNING WITH multimodal foundation models a formal framework
 - 2024 LLaVA improved baselines with visual instruction tuning
 - 2024 NavGPT-v2
 - 2024 Octopus Embodied vision language programmer from environmental feedback
+- 2024 Open-World Task and Motion Planning via vision language model inferred constraints
 - 2024 OpenVLA
 - 2024 OrionNav Online Planning for Robot Autonomy with context aware LLM and open vocabulary semantic scene graphs
 - 2024 RT-H action hierarchies using language
 - 2024 Robogpt an intelligent agent of making embodied long-term decisions
+- 2024 Select2Plan Training-Free ICL-Based Planning through VQA and memory retrieval
 - 2024 Towards Coarse-grained Visual Language Navigation Task planning enhanced by event knowledge graph
+- 2024 VLA-3D A Dataset for 3D Semantic Scene understanding and navigation
+- 2024 castl constraints as specifications through LLM translation for long horizon task and motion planning
+- 2024 learning memory mechanisms for decision making through demonstrations
 - 2024 replan robotic replanning with perception and language models
 - 2024COLM LLM Reasoners
 - 2024ICLR Lota bench benchmarking language oriented task planners for embodied agents
 - 2024ICLR RT-Trajectory
 - 2024ICML 3D-VLA A 3D Vision-Language-Action Generative World Mode
 - 2024ICRA Physically Grounded Vision-Language Models for robotic manipulation
-- Aligning cyber space with physical world a comprehensive survey on embodied AI
+- 2024Review Aligning cyber space with physical world a comprehensive survey on embodied AI
+- 2024Review Toward General-Purpose Robots via Foundation Models
+
 
 
 
